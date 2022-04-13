@@ -1,1 +1,1 @@
-# KOTAN-HUB
+print("KOTAN HUB")
